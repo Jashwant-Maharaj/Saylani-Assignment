@@ -1,0 +1,227 @@
+ul.my-header{
+    list-style-type: none;
+    margin: 10px 0px 20px 0px !important;
+}
+ul li.my-header{
+    display: inline;
+    padding:0px 15px;
+}
+ul li a{
+    text-decoration: none;
+    
+}
+p{
+    font-size: 16px;
+}
+p.my-header{
+    padding: 15px 0px 0px 0px;
+    color: white;
+}
+button.my-header{
+    font-size: 12px;
+    color: rgb(95, 95, 95);
+    padding:2px 10px;
+    margin-top: 15px;
+}
+.bg-blue{
+    background-color: #0066B3;
+}
+.center{
+    text-align: center;
+}
+.bg-grey{
+    background-color: rgb(240, 240, 240);
+}
+.logo{
+    margin: 1% 8%;
+}
+.menu{
+    padding: 2% 3%;
+}
+.menu-button{
+    font-size: 14px;
+    padding: 1% 2%;
+    border-radius: 50px;
+    border: none;
+}
+button.menu-button:hover{
+    color: white;
+    background-color: #0066B3;
+}
+button.menu-button:active{
+    color: white;
+    background-color: #0066B3;
+}
+.sticky-header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+.news{
+    margin: 10px 8%;
+    padding: 3px 15%;
+    color: white;
+}
+.blue{
+    color: #0066B3;
+}
+.green{
+    color: rgb(144, 182, 73);
+}
+a.news-details{
+    color: rgb(4, 146, 255);
+}
+a.news-details:hover{
+    text-decoration: none;
+}
+.history{
+    line-height: 200%;
+    padding: 5% 15%;
+    color: rgb(92, 92, 92);
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.alpha-space{
+    word-spacing: 5px;
+}
+.services{
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(27, 27, 230, 0.9);
+}
+.services-number{
+    font-size: 55px;
+}
+.monthly{
+    font-size: 19px;
+    color: greenyellow;
+}
+.services-bottom{
+    padding: 4% 7%;
+}
+.services-bottom-font{
+    padding-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #0066B3;
+    font-weight: bold;
+}
+.services-bottom-container{
+    background-color: white;
+    margin: 5% 1%;
+    padding: 10% 0% 5% 0%;
+    box-shadow: 5px 5px 15px rgb(167, 167, 167);
+}
+.mission{
+    padding:100px 8%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mission-heading{
+    color: #0066B3;
+    font-weight: bold;
+    font-size: 26px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.underline-dark{
+    color: rgb(32, 139, 32);
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 0;
+    margin-bottom: 35px;
+}
+.underline-light{
+    color: rgb(158, 158, 158);
+    font-size: 26px;
+    line-height: 0;
+    margin-bottom: 35px;
+}
+.mission-container{
+    background-color: rgb(241, 241, 255);
+    padding: 20px 15px;
+    margin: 10px 0;
+    border: 0.1px solid rgb(197, 197, 197);
+}
+.mission-fonts{
+    font-weight: bold;
+    padding-left: 30px;
+    color: #0066B3;
+    vertical-align: text-top;
+}
+.upcoming{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+a.upcoming-details{
+    color: #0066B3;
+}
+a.upcoming-details:hover{
+    color: #0066B3;
+    text-decoration: none;
+}
+.image-gallery{
+    margin: 30px 0px;
+    margin-bottom: 12%;
+}
+.image-gallery-container{
+    padding: 1px;
+}
+.upper-bottom{
+    padding: 6% 7% 4% 7%;
+    background-color: rgba(0, 0, 0, 0.877);
+}
+.upper-bottom-heading{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+}
+.upper-bottom-font{
+    color: rgb(167, 167, 167);
+    line-height: 25px;
+    font-size: 15px;
+}
+.vertical-center{
+    vertical-align: text-top;
+}
+.indent{
+    padding-left: 20px;
+}
+.upper-bottom-first-container{
+    padding: 20px 0;
+}
+.upper-bottom-links{
+    display: inline-block;
+    padding-top: 25px;
+    padding-right: 10px;
+}
+.footer{
+    color: white;
+    font-size: 12px;
+    background-color: #0066B3;
+    padding: 13px 7%;
+    margin: 0;
+}
+.back-to-top{
+    background-color: rgba(0, 0, 0, 0.158);
+    padding: 7px 10px 12px 10px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+.back-to-top:hover{
+    background-color: rgba(0, 0, 0, 0.651);
+}
